@@ -1,0 +1,16 @@
+{
+  "name": "dnewrelic",
+  "description": "Initialize New Relic if the license key is given as environment variable",
+  "version": "1.0.0",
+  "homepage": "http://github.com/dnode/dnewrelic",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "main": "src/lib.js",
+  "dependencies": {
+    "newrelic": "^1.24.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dnode/dnewrelic.git"
+  }
+}
