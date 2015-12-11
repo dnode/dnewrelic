@@ -2,7 +2,7 @@
 [![devDependency Status](https://david-dm.org/dnode/dnewrelic/dev-status.svg)](https://david-dm.org/dnode/dnewrelic#info=devDependencies)
 
 # dnewrelic
-Initialize New Relic if the license key is given as environment variable
+Initialize New Relic depending on the environment variable ```NEW_RELIC_LICENSE_KEY```
 
 ## Install
 ```
