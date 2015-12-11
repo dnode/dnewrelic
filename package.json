@@ -1,7 +1,7 @@
 {
   "name": "dnewrelic",
   "description": "Initialize New Relic depending on the environment variable 'NEW_RELIC_LICENSE_KEY'",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "homepage": "http://github.com/dnode/dnewrelic",
   "license": "MIT",
   "readmeFilename": "README.md",
